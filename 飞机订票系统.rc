@@ -1,0 +1,177 @@
+// Microsoft Visual C++ generated resource script.
+//
+#include "resource.h"
+
+#define APSTUDIO_READONLY_SYMBOLS
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 2 resource.
+//
+#include "winres.h"
+
+/////////////////////////////////////////////////////////////////////////////
+#undef APSTUDIO_READONLY_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+// 中文(简体，中国) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_CHS)
+LANGUAGE LANG_CHINESE, SUBLANG_CHINESE_SIMPLIFIED
+#pragma code_page(936)
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+1 TEXTINCLUDE 
+BEGIN
+    "resource.h\0"
+END
+
+2 TEXTINCLUDE 
+BEGIN
+    "#include ""winres.h""\r\n"
+    "\0"
+END
+
+3 TEXTINCLUDE 
+BEGIN
+    "\r\n"
+    "\0"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Bitmap
+//
+
+
+IDB_INPUTBORDER_TOPBOTTOM BITMAP                  "RC\\LogIn\\InputBorder_TOPBOTTOM.bmp"
+
+IDB_INPUTBORDER_200_30  BITMAP                  "RC\\LogIn\\InputBorder-200-30.bmp"
+
+IDB_INPUTBORDER_300_45  BITMAP                  "RC\\LogIn\\InputBorder-300-45.bmp"
+
+IDB_INPUTBORDER_400_60  BITMAP                  "RC\\LogIn\\InputBorder-400-60.bmp"
+
+IDB_INPUTBORDER_600_90  BITMAP                  "RC\\LogIn\\InputBorder-600-90.bmp"
+
+IDB_INPUTBORDER_900_135 BITMAP                  "RC\\LogIn\\InputBorder-900-135.bmp"
+
+IDB_PLANE               BITMAP                  "RC\\LogIn\\plane.bmp"
+
+IDB_INPUTBORDER_300_45_SELECTED BITMAP                  "RC\\LogIn\\InputBorder-300-45_selected.bmp"
+
+IDB_INPUTBORDER_400_60_SELECTED BITMAP                  "RC\\LogIn\\InputBorder-400-60_selected.bmp"
+
+IDB_INPUTBORDER_600_90_SELECTED BITMAP                  "RC\\LogIn\\InputBorder-600-90_selected.bmp"
+
+IDB_INPUTBORDER_900_135_SELECTED BITMAP                  "RC\\LogIn\\InputBorder-900-135_selected.bmp"
+
+IDB_INPUTBORDER_200_30_SELECTED BITMAP                  "RC\\LogIn\\InputBorder-200-30_selected.bmp"
+
+IDB_USER_BKCR_32_32     BITMAP                  "RC\\MainWnd\\Menu\\user\\userbkcr_32_32.bmp"
+
+IDB_USER_BKCR_64_64     BITMAP                  "RC\\MainWnd\\Menu\\user\\userbkcr_64_64.bmp"
+
+IDB_USER_BKCR_128_128   BITMAP                  "RC\\MainWnd\\Menu\\user\\userbkcr_128_128.bmp"
+
+IDB_USER_BKCR_256_256   BITMAP                  "RC\\MainWnd\\Menu\\user\\userbkcr_256_256.bmp"
+
+IDB_PAPERPLANE          BITMAP                  "RC\\App\\plane.bmp"
+
+IDB_PAPERPLANE_S        BITMAP                  "RC\\App\\plane_s.bmp"
+
+IDB_BACK_B              BITMAP                  "RC\\App\\back_B.bmp"
+
+IDB_BACK_M              BITMAP                  "RC\\App\\back_M.bmp"
+
+IDB_BACK_SELECTED_B     BITMAP                  "RC\\App\\backselected_B.bmp"
+
+IDB_BACK_SELECTED_M     BITMAP                  "RC\\App\\backselected_M.bmp"
+
+IDB_CHECKBOX_CHECKED    BITMAP                  "RC\\App\\check-box_checked.bmp"
+
+IDB_CHECKBOX_UNCHECKED  BITMAP                  "RC\\App\\check-box_unchecked.bmp"
+
+IDB_EMPTY               BITMAP                  "RC\\App\\empty_B.bmp"
+
+IDB_SEX                 BITMAP                  "RC\\App\\Female&Male.bmp"
+
+IDB_USERS               BITMAP                  "RC\\App\\UserGroup.bmp"
+
+IDB_PLANECIRCLE         BITMAP                  "RC\\App\\plane_circle.bmp"
+
+IDB_ORDER               BITMAP                  "RC\\App\\order.bmp"
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Icon
+//
+
+// Icon with lowest ID value placed first to ensure application icon
+// remains consistent on all systems.
+IDI_APP_ICON            ICON                    "RC\\App\\app.ico"
+
+IDI_FLIGHT              ICON                    "RC\\App\\flight_ico.ico"
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Version
+//
+
+VS_VERSION_INFO VERSIONINFO
+ FILEVERSION 1,0,0,1
+ PRODUCTVERSION 1,0,0,1
+ FILEFLAGSMASK 0x3fL
+#ifdef _DEBUG
+ FILEFLAGS 0x1L
+#else
+ FILEFLAGS 0x0L
+#endif
+ FILEOS 0x40004L
+ FILETYPE 0x1L
+ FILESUBTYPE 0x0L
+BEGIN
+    BLOCK "StringFileInfo"
+    BEGIN
+        BLOCK "080404b0"
+        BEGIN
+            VALUE "CompanyName", "Martix John"
+            VALUE "FileDescription", "Air-ticket Reservation System By Martix John"
+            VALUE "FileVersion", "1.1.0.1"
+            VALUE "InternalName", "Air-ticket Reservation System.exe"
+            VALUE "LegalCopyright", "Copyright (C) 2021 Martix John 颜震宇.All Rights Reserved."
+            VALUE "OriginalFilename", "airticket reservation.exe"
+            VALUE "ProductName", "飞机订票系统"
+            VALUE "ProductVersion", "1.1.0.0"
+        END
+    END
+    BLOCK "VarFileInfo"
+    BEGIN
+        VALUE "Translation", 0x804, 1200
+    END
+END
+
+#endif    // 中文(简体，中国) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+
+#ifndef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 3 resource.
+//
+
+
+/////////////////////////////////////////////////////////////////////////////
+#endif    // not APSTUDIO_INVOKED
+
