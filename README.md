@@ -4,11 +4,11 @@
 
 >> 语言: C
 <br>
->>使用Windows SDK编写
+>> 使用Windows SDK编写
 <br>
->>运行平台：Windows
+>> 运行平台：Windows
 <br>
->>第一次编写Windows图形用户程序，希望大家多多包涵，欢迎大佬指点交流
+>> 第一次编写Windows图形用户程序，希望大家多多包涵，欢迎大佬指点交流
 
 -----
 
